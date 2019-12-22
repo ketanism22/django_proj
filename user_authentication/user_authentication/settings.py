@@ -27,7 +27,7 @@ SECRET_KEY = 'w4*(k7x#d1tz$2-gq1mc-%qy@l%or3krj(ta3h13m=@y3)8a!2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ketanism22.pythonanywhere.com',]
 
 
 # Application definition
